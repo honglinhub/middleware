@@ -1,4 +1,4 @@
-# function
+# demo
 1. 构造方法动态替换(@MockConstructor)
 2. 普通方法动态替换(@MockMethod)
 
