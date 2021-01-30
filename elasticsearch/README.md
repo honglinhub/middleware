@@ -4,6 +4,7 @@
 3. es安装报错需要修改一些配置(包含兼容elasticsearch-head可访问es的配置) 
 4. index -- (7.0版本type已废弃) -- document -- mapping
 5. JDK;NodeJS;elasticsearch-head;ik;
+6. docker;开机启动
 
 # Reference
 [删除映射类型](https://segmentfault.com/a/1190000019911538)
